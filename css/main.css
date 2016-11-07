@@ -1,1 +1,75 @@
+body {
+	background-color: #552582;
+	text-align: center;
+	font-size: 45px;
+}
+h1 {
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 75px;
+	text-shadow: 3px 3px black;
+}
+img {
+	width: 550px;
+	border-color: orange;
+	
+}
+p {
+	font-size: 30px;
+	color: #FDB927;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	text-shadow: 2px 2px black;
+	padding-bottom: 15px;
+}
+h2 {
+	color: white; 
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 2px 2px black;
+}
+h3 {
+	color: white; 
+	font-family: 'Fredoka One', cursive;
+	padding-top: 25px;
+	font-size: 55px;
+	text-shadow: 3px 3px black;
+}
+h4 {
+	color: white; 
+	font-family: 'Fredoka One', cursive;
+	padding-top: 25px;	
+	font-size: 55px;
+	text-shadow: 3px 3px black;
+}
+.painting {
+	width: 350px;
+}
+.info {
+	font-size: 35px;
+	color: orange;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+}
+li {
+	color: #FDB927;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 2px 2px black;
+	text-indent: 5px;
+}
 
+
+header {
+	font-size: 75px;
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 3px 3px black;
+	text-decoration: underline;
+}
+footer {
+	text-align: center;
+	text-shadow: 2px 2px orange;
+	padding-top: 75px;
+}
